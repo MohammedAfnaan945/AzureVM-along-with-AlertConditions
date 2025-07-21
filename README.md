@@ -47,8 +47,12 @@ This project helps demonstrate practical skills in VM provisioning, system monit
 - <img width="1920" height="1020" alt="Screenshot 2025-07-21 202029" src="https://github.com/user-attachments/assets/0116e057-e58f-41af-bf53-4a7a942c7a4f" />
 
 
-### ✅ Step 6: Create Users and Assign Roles
+### ✅ Step 4: Create Users and Assign Roles (RBAC)
+- Created Azure AD users from the portal.
+- Assigned roles such as **Reader** and **Virtual Machine Contributor** to test scoped access.
+- Verified that access was restricted according to role permissions.
 - <img width="1920" height="1020" alt="Screenshot 2025-07-21 202222" src="https://github.com/user-attachments/assets/884fbc74-a2ee-4952-aaf9-ecae13ee235d" />
+
 
 
 ### ✅ Step 5: Deployment Testing of the VM
@@ -59,6 +63,17 @@ This project helps demonstrate practical skills in VM provisioning, system monit
 
 
 ---
+
+
+## ✅ Skills Gained
+- Azure VM provisioning with Windows Server 2022
+- NSG configuration for public access (RDP, HTTP)
+- Azure Monitor Alerts & Action Groups
+- Azure AD user creation and RBAC role assignment
+- Testing deployment and alert notification
+
+---
+
 ## 📅 Completion Date
 July 2025
 
